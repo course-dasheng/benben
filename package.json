@@ -1,6 +1,6 @@
 {
   "name": "benben",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "AI assistants for Programmer ,powerd by openai",
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
@@ -8,6 +8,10 @@
   "bin": {
     "ben": "bin/index.mjs"
   },
+  "files": [
+    "dist",
+    "bin"
+  ],
   "scripts": {
     "build": "unbuild",
     "dev": "unbuild --stub",
@@ -16,6 +20,9 @@
     "release": "bumpp && npm publish",
     "start": "esno src/index.ts",
     "typecheck": "tsc --noEmit"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
