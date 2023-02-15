@@ -15,5 +15,7 @@ for cli and vscode extension
 
 ```
 npm i -g benben
-export OPENAI_KEY=sk-xxxx # get your key from https://beta.openai.com/
+
+# get your key from https://beta.openai.com/
+export OPENAI_KEY=sk-xxxx 
 ```
