@@ -2,7 +2,7 @@
 AI assistants for Programmer ,powerd by openai
 
 for cli and vscode extension
-
+<img src="./benben.png" />
 ## Feature
 1. Generate business email
 2. Write Regular expressions
@@ -11,4 +11,7 @@ for cli and vscode extension
 5. Variable naming
 
 
+## Quick Start
+
+```
 

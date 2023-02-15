@@ -1,0 +1,20 @@
+{
+  "name": "benben",
+  "version": "0.0.1",
+  "description": "AI assistants for Programmer ,powerd by openai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/course-dasheng/benben.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/course-dasheng/benben/issues"
+  },
+  "homepage": "https://github.com/course-dasheng/benben#readme"
+}
