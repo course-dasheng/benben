@@ -49,5 +49,8 @@
     "typescript": "^4.9.5",
     "unbuild": "^1.1.1",
     "vitest": "^0.28.5"
+  },
+  "dependencies": {
+    "eventsource-parser": "^0.1.0"
   }
 }
