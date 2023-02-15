@@ -14,4 +14,6 @@ for cli and vscode extension
 ## Quick Start
 
 ```
-
+npm i -g benben
+export OPENAI_KEY=sk-xxxx # get your key from https://beta.openai.com/
+```
