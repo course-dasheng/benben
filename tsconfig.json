@@ -1,0 +1,42 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "types": ["node"],
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "exactOptionalPropertyTypes": true,
+    "strict": true,
+    "baseUrl": ".",
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "rootDir": "src",
+    "declaration": true,
+    "declarationDir": "build",
+    "declarationMap": true,
+    "newLine": "lf",
+    "noEmitHelpers": false,
+    "noEmitOnError": true,
+    "outDir": "build",
+    "preserveConstEnums": true,
+    "preserveValueImports": false,
+    "removeComments": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "experimentalDecorators": true,
+    "lib": ["ES5", "ESNext"],
+    "target": "es5",
+    "composite": true,
+    "noErrorTruncation": true,
+    "skipLibCheck": true,
+    "downlevelIteration": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"],
+  "watchOptions": {
+    "synchronousWatchDirectory": true,
+    "excludeDirectories": ["**/node_modules"]
+  }
+}

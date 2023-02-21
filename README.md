@@ -15,6 +15,7 @@ for cli and vscode extension
 6. Code review
 7. System command search
 8. Generate document template，such as Product document、Legal document
+9. Search library or framework in your using programming language
 
 ## Quick Start
 
