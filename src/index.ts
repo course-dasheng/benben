@@ -1,5 +1,5 @@
-export function main(){
-  console.log('xx')
+export function main() {
+  console.log("xx");
 }
 
-main()
+main();
